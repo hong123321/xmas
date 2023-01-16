@@ -1,0 +1,15 @@
+#title{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    height: 100px;
+    .text{
+        color: blue;
+        font-size: larger;
+        display: flex;
+        margin: auto;
+    }
+}
